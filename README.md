@@ -6,7 +6,11 @@ Aqui você encontrará os meus projetos pessoais e projetos de estudo, entre out
 
 ## Projetos de Estudo:
 
-* Projeto Pokédex MapaDev Week: https://lipepereira.github.io/Projeto-Pokedex-MapaDev-Week/
+* ### Projeto Pokédex MapaDev Week
+
+Introdução: Projeto realizado com a ajuda de lives do projeto MapaDev Week organizado pelo gêmeos do canal Dev em Dobro.
+
+Link: https://lipepereira.github.io/Projeto-Pokedex-MapaDev-Week/
 
 
 
