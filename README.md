@@ -10,7 +10,7 @@ Aqui você encontrará os meus projetos pessoais e projetos de estudo, entre out
 
 Introdução: Projeto realizado com a ajuda de lives do projeto MapaDev Week organizado pelo gêmeos do canal Dev em Dobro.
 
-Link: https://lipepereira.github.io/Projeto-Pokedex-MapaDev-Week/
+Link: https://projeto-pokedex-mapadev-week.netlify.app
 
 
 
