@@ -8,9 +8,11 @@ Aqui você encontrará os meus projetos pessoais e projetos de estudo, entre out
 
 * ### Projeto Pokédex MapaDev Week
 
-Introdução: Projeto realizado com a ajuda de lives do projeto MapaDev Week organizado pelo gêmeos do canal Dev em Dobro.
+**Introdução:** Projeto realizado com a ajuda de lives do projeto MapaDev Week organizado pelo gêmeos do canal Dev em Dobro.
 
-Link: https://projeto-pokedex-mapadev-week.netlify.app
+**Linguagens utilizadas:** HTML, CSS e JavaScript 
+
+**Link:** https://projeto-pokedex-mapadev-week.netlify.app
 
 
 
