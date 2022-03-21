@@ -6,13 +6,12 @@ Aqui você encontrará os meus projetos pessoais e projetos de estudo, entre out
 
 ## Projetos de Estudos: 
 
-* ### Projeto Pokédex MapaDev Week
+**Descrição:** Projetos baseados em vídeos no Youtube, Imersões, Bootcamps, Cursos, entre outros...
 
-**Introdução:** Projeto realizado com a ajuda de lives do projeto MapaDev Week organizado pelo gêmeos do canal Dev em Dobro.
-
-**Linguagens utilizadas:** HTML, CSS e JavaScript 
-
-**Link:** https://projeto-pokedex-mapadev-week.netlify.app
+* https://projeto-pokedex-mapadev-week.netlify.app
+* https://projeto-catalogo-de-carros.netlify.app
+* https://projeto-landing-page-one.netlify.app
+* https://projeto-login-page-one.netlify.app
 
 
 
