@@ -10,8 +10,8 @@ Aqui você encontrará os meus projetos pessoais e projetos de estudo, entre out
 
 * https://projeto-pokedex-mapadev-week.netlify.app
 * https://projeto-catalogo-de-carros.netlify.app
-* https://projeto-landing-page-one.netlify.app
-* https://projeto-login-page-one.netlify.app
+* https://project-landing-page-one.netlify.app
+* https://project-login-page-one.netlify.app
 
 
 
