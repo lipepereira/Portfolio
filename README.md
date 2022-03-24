@@ -4,6 +4,14 @@ Aqui você encontrará os meus projetos pessoais e projetos de estudo, entre out
 
 <br>
 
+## Projetos Pessoais: 
+
+### Projeto Spreadsheet Maker
+
+**Introdução:** Página de Login criada para treinar e melhorar técnicas de posicionamento e responsividade para Desktop, Tablet e Mobile.
+
+* https://project-spreadsheet-maker.netlify.app
+
 ## Projetos de Estudos: 
 
 **Descrição:** Projetos baseados em vídeos no Youtube, Imersões, Bootcamps, Cursos, entre outros...
@@ -12,9 +20,3 @@ Aqui você encontrará os meus projetos pessoais e projetos de estudo, entre out
 * https://projeto-catalogo-de-carros.netlify.app
 * https://project-landing-page-one.netlify.app
 * https://project-login-page-one.netlify.app
-
-
-
-## Projetos Pessoais:
-
-Ainda não há projetos finalizados.
